@@ -1,0 +1,96 @@
+body {
+  background-color: aqua;
+}
+.box {
+  width: 400px;
+  height: 500px;
+  background-color: aliceblue;
+  border-radius: 20px;
+  margin-top: 300px;
+  margin-left: 700px;
+}
+button img {
+  width: 20px;
+  border-radius: 10px;
+  padding-top: 2px;
+}
+button {
+  padding-bottom: 10px;
+}
+.container {
+  width: 300px;
+  height: 20px;
+}
+.container h1 {
+  position: relative;
+  left: 30px;
+  top: 30px;
+}
+.container p {
+  margin-top: 30px;
+  margin-left: 30px;
+  text-align: center;
+}
+h3 {
+  margin-left: 120px;
+}
+button {
+  width: 300px;
+  height: 30px;
+  border-radius: 20px;
+  background-color: antiquewhite;
+  margin-top: 100px;
+  margin-left: 30px;
+  display: inline-block;
+}
+.Email label {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  width: 100px;
+}
+.Email input {
+  margin-left: 30px;
+  width: 300px;
+  height: 20px;
+  font-size: larger;
+}
+.password label {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+}
+.password input {
+  margin-left: 30px;
+  width: 300px;
+  height: 20px;
+  border-radius: 10px;
+}
+.checkbox input {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.checkbox p {
+  color: blue;
+  position: relative;
+  bottom: 35px;
+  left: 240px;
+}
+.Login button {
+  position: relative;
+  bottom: 100px;
+  width: 300px;
+  margin-left: 30px;
+  padding-top: 8px;
+}
+.Register {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  bottom: 90px;
+}
+.Register p {
+  color: blue;
+  position: relative;
+  bottom: 15px;
+}
